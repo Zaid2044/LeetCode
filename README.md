@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-0A66C2?style=flat"/>
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Practice-Level-Up-green?style=flat"/>
 </p>
 
 ---
@@ -60,18 +59,18 @@ Each folder contains:
 
 ---
 
-## 📈 Progress Tracker *(optional)*
+## 📈 Progress Tracker
 
 You can add a table like this in future to track solved problems:
 
-| Category            | Completed | Total    |
-| ------------------- | --------- | -------- |
-| Arrays              | 12        | 25       |
-| Strings             | 9         | 20       |
-| Hashmaps & Sets     | 7         | 15       |
-| Trees               | 5         | 18       |
-| Dynamic Programming | 4         | 22       |
-| **Total**           | **37**    | **100+** |
+| Category            | Completed |
+| ------------------- | --------- |
+| Arrays              | 1         |
+| Strings             | 0         |
+| Hashmaps & Sets     | 0         |
+| Trees               | 0         |
+| Dynamic Programming | 0         |
+| **Total**           | **1**     |
 
 ---
 
