@@ -67,10 +67,10 @@ You can add a table like this in future to track solved problems:
 | ------------------- | --------- |
 | Arrays              | 4         |
 | Strings             | 0         |
-| Hashmaps & Sets     | 0         |
+| Hashmaps & Sets     | 1         |
 | Trees               | 0         |
 | Dynamic Programming | 0         |
-| **Total**           | **4**     |
+| **Total**           | **5**     |
 
 ---
 
