@@ -65,12 +65,12 @@ You can add a table like this in future to track solved problems:
 
 | Category            | Completed |
 | ------------------- | --------- |
-| Arrays              | 1         |
+| Arrays              | 2         |
 | Strings             | 0         |
 | Hashmaps & Sets     | 0         |
 | Trees               | 0         |
 | Dynamic Programming | 0         |
-| **Total**           | **1**     |
+| **Total**           | **2**     |
 
 ---
 
