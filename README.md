@@ -69,8 +69,8 @@ You can add a table like this in future to track solved problems:
 | Strings             | 0         |
 | Hashmaps & Sets     | 1         |
 | Trees               | 0         |
-| Dynamic Programming | 1         |
-| **Total**           | **6**     |
+| Dynamic Programming | 2         |
+| **Total**           | **7**     |
 
 ---
 
