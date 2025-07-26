@@ -67,11 +67,11 @@ You can add a table like this in future to track solved problems:
 | ------------------- | --------- |
 | Arrays              | 5         |
 | Matrix              | 3         |
-| Strings             | 0         |
+| Strings             | 1         |
 | Hashmaps & Sets     | 2         |
 | Trees               | 0         |
 | Dynamic Programming | 2         |
-| **Total**           | **12**    |
+| **Total**           | **13**    |
 
 ---
 
