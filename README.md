@@ -66,12 +66,12 @@ You can add a table like this in future to track solved problems:
 | Category            | Completed |
 | ------------------- | --------- |
 | Arrays              | 5         |
-| Matrix              | 2         |
+| Matrix              | 3         |
 | Strings             | 0         |
 | Hashmaps & Sets     | 2         |
 | Trees               | 0         |
 | Dynamic Programming | 2         |
-| **Total**           | **11**    |
+| **Total**           | **12**    |
 
 ---
 
